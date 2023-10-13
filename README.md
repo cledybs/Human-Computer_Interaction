@@ -13,7 +13,7 @@ Welcome to the Dragon Hunter Game repository! This immersive experience combines
 - Open the Unity project in Unity.
 
 
-<img src="https://i.postimg.cc/RVXJtW0X/gd2.png" width="200">
+<img src="https://i.postimg.cc/RVXJtW0X/gd2.png" width="500" align="center">
 
 ## Gameplay
 - Put on the Oculus Rift headset to enter the immersive world of Dragon Hunter.
