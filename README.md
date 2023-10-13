@@ -12,6 +12,9 @@ Setup Instructions
 - Clone this repository to your local machine.
 - Open the Unity project in Unity.
 
+
+[![gd2.png](https://i.postimg.cc/RVXJtW0X/gd2.png)](https://postimg.cc/HV8LDsXy)
+
 Gameplay
 - Put on the Oculus Rift headset to enter the immersive world of Dragon Hunter.
 - Use Kinect-captured gestures to simulate bow and arrow movements.
@@ -30,4 +33,3 @@ Authors:
 - Sebastian Paz Ballon
 - Joey Flores Davila
 
-[![gd2.png](https://i.postimg.cc/RVXJtW0X/gd2.png)](https://postimg.cc/HV8LDsXy)
